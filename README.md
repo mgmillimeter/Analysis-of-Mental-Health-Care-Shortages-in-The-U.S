@@ -70,7 +70,7 @@ The dashboard provides an in-depth analysis of mental health care professionals 
 
 ## Data Sources
 
-Original dataset cann be tracked _[here](https://vizzendata.com/health-and-healthcare-data-sets/)._
+Original dataset can be tracked _[here](https://vizzendata.com/health-and-healthcare-data-sets/)._
 
 Credits: _Lindsay Betzendahl_
 
