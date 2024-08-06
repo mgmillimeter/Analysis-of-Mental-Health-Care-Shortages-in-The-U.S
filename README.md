@@ -49,23 +49,23 @@ The dashboard provides an in-depth analysis of mental health care professionals 
 
 ## Limitations
 
-1. **Data Completeness and Accuracy**: 
-   - Potential issues with missing, incomplete, or outdated data affecting reliability.
+#### 1. **Data Completeness and Accuracy**: 
+  - Potential issues with missing, incomplete, or outdated data affecting reliability.
 
-2. **Correlation vs. Causation**: 
-   - Correlations do not imply causation, limiting the ability to draw definitive conclusions about cause-effect relationships.
+#### 2. **Correlation vs. Causation**: 
+  - Correlations do not imply causation, limiting the ability to draw definitive conclusions about cause-effect relationships.
 
-3. **Granularity of Data**: 
-   - State-level aggregation may obscure important local variations and specific regional needs.
+#### 3. **Granularity of Data**: 
+  - State-level aggregation may obscure important local variations and specific regional needs.
 
-4. **Contextual Factors**: 
-   - Lack of consideration for socioeconomic, demographic, policy, and infrastructure differences across states.
+#### 4. **Contextual Factors**: 
+  - Lack of consideration for socioeconomic, demographic, policy, and infrastructure differences across states.
 
-5. **Static Analysis**: 
-   - Absence of time-series data prevents observation of trends and changes over time.
+#### 5. **Static Analysis**: 
+  - Absence of time-series data prevents observation of trends and changes over time.
 
-6. **Limited Variables**: 
-   - Exclusion of other influential factors and unmeasured variables like quality of care and specific mental health conditions.
+#### 6. **Limited Variables**: 
+  - Exclusion of other influential factors and unmeasured variables like quality of care and specific mental health conditions.
 
 
 ## Data Sources
