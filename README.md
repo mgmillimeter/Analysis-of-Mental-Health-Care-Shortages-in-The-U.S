@@ -1,6 +1,6 @@
 # State-Level Analysis of Mental Health Care Shortages & Resource In The U.S.
 
-Anaylzing the 2022 Mental Health Care Professionals Shortages In The United States. Interactive Tableau Dashboard can be found _[here](https://public.tableau.com/app/profile/martin.guiller.iii/viz/State-LevelAnalysisofMentalHealthCareShortages/Dashboard1)._
+Anaylzing the 2022 Mental Health Care Professionals Shortages In The United States of America & its associated states. Interactive Tableau Dashboard can be found _[here](https://public.tableau.com/app/profile/martin.guiller.iii/viz/State-LevelAnalysisofMentalHealthCareShortages/Dashboard1)._
 
 The dashboard provides an in-depth analysis of mental health care professionals shortages in the U.S, higlighting key insights across the region.
 
